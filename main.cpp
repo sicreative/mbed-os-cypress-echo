@@ -2,7 +2,7 @@
  *      Author: sc lee
  *
  *
- *      Demo of capture capsense button and publised data to AWS server
+ *      Demo of use PDM and Sound under Mbed
  *
  *      Inorder to run this demo, you should have CY8CKIT-062-WIFI-BT+TFT with CY8CKIT-028-TFT
  *
